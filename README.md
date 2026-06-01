@@ -12,7 +12,7 @@ No trabajes directamente sobre la rama main.
 
 Cada estudiante debe crear una rama propia con el siguiente formato:
 
-nombres_apellidos
+nombres_apellidos Diana paola riascos ⁸
 
 Ejemplo:
 
