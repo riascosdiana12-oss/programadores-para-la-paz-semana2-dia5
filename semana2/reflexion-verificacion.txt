@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Diana paola riascos 
+Fecha:09 /JUNIO  2026
+Nombre de la rama:DIANA PAOLA 
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -12,3 +12,15 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
 Respuesta:
+
+1. ¿Por qué no se debe compartir cualquier dato personal en formularios?
+No se debe compartir cédula, dirección, teléfono o datos bancarios en cualquier formulario porque podemos ser víctimas de fraudes o robo de identidad. No todos los sitios son seguros y pueden usar mal nuestra información.
+
+2. ¿Cómo ayuda la verificación responsable a proteger a las emprendedoras?
+Nos ayuda a detenernos antes de enviar datos. Preguntamos: ¿quién pide esto? ¿para qué lo usa? ¿es necesario? Así protegemos nuestro negocio, nuestra familia y evitamos caer en estafas que afectan a muchas emprendedoras.
+
+3. ¿Por qué la accesibilidad también es un tema de seguridad digital?
+Porque si una compañera no puede leer el formulario por letra pequeña o mal contraste, va a pedir ayuda y tendrá que dictar sus datos personales. Un formulario accesible con letra grande y buen contraste cuida su privacidad y seguridad.
+
+4. ¿Qué relación tiene el formulario "Para Ti" con lo aprendido hoy?
+El formulario "Para Ti" de WWB aplica lo aprendido. Tiene título claro, explica para qué se usan los datos, solo pide lo necesario como nombre y teléfono, y tiene casilla de consentimiento. Es accesible y responsable a la vez.
